@@ -8,7 +8,7 @@ Sistema de monitoramento energético para uma missão espacial experimental, com
 
 **Nome da missão:** Artemis Deep Scan  
 
-**Vídeo não listado no YouTube:** 
+**Vídeo não listado no YouTube:** https://youtu.be/lEa65fNCDl0?si=fNzbzX-ENwjDnrpv
 
 ---
 
